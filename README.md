@@ -25,7 +25,7 @@ Just change the FUDPData data structure to match the entries:
 ## How to build ##
 
 ```
-git submodule update
+git submodule update --init
 ```
 Open Visual Studio.
 If your run an older/newer version right-click the project -> properties -> general -> platform toolset and change it to your needs.
